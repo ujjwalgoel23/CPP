@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
+    cout<<"PRINTING NO. OF DIGITS \n";
     int n,count=0;
     cout<<"Enter Any Number : ";
     cin>>n;
