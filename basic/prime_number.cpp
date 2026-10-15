@@ -10,7 +10,7 @@ int main(){
             count++;
         }
     } 
-    if(count==2){
+    if(count==1){
         cout<<"prime number";
     }
     else {
@@ -23,7 +23,7 @@ int main(){
     //    if(n%i==0) {
     //     count++;
     //      if((n/i) != i) count++;
-    // }
+    //    }
     // }
     // if(count==2)  cout<<"prime number";
      
